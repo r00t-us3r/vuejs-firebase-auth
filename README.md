@@ -1,4 +1,4 @@
-# vuejs-gcloud
+# vuejs-firebase-auth
 
 ## Project setup
 ```
